@@ -1,2 +1,12 @@
-# quizbox
-make a box that opens upon successful answering of a few quiz questions
+## Quizbox
+Quick trivia quiz
+
+### Description
+Quick trivia quiz game for Mycroft AI
+
+## Examples
+* "start a quiz"
+* "I want a quiz"
+
+## Credits
+@joshuacox
